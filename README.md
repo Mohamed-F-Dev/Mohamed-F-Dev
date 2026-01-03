@@ -13,7 +13,7 @@ Holds a Bachelor's degree and works on building scalable mobile applications wit
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30" />
 </a>
 
-<a href="https://www.linkedin.com/in/mahmoud-mokhtar-0923b236b/" target="_blank" style="margin:0 8px;">
+<a href="[https://www.linkedin.com/in/mahmoud-mokhtar-0923b236b/](https://www.linkedin.com/in/mohamed-fawzy-973786396?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank" style="margin:0 8px;">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
 </a>
 
